@@ -7,3 +7,4 @@ Java Collection means a single unit of objects. Java Collection framework provid
 # In priority queue is like the inserted value will be in serted as a binary tree but in a array so when we remove or poll in priority queue thr order is going to change.
 ## Using poll() in priorityQueue will remove the head of the queue and if no head it will return null
 ## Using remove() it does the same as poll but throws Exception if there is no head.
+# We can't add duplicate in set thats the advantage of set
