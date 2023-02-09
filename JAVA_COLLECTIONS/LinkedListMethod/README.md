@@ -8,7 +8,6 @@
 ## boolean add(E e)	It is used to append the specified element to the end of a list.
 ## void add(int index, E element)	It is used to insert the specified element at the specified position index in a list.
 ## boolean addAll(Collection<? extends E> c)	It is used to append all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's iterator.
-## boolean addAll(Collection<? extends E> c)	It is used to append all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's iterator.
 ## boolean addAll(int index, Collection<? extends E> c)	It is used to append all the elements in the specified collection, starting at the specified position of the list.
 ## void addFirst(E e)	It is used to insert the given element at the beginning of a list.
 ## void addLast(E e)	It is used to append the given element to the end of a list.
