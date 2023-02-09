@@ -1,3 +1,5 @@
+![Alt text](https://static.javatpoint.com/images/arraylist.png)
+
 # Constructors of ArrayList
 ## Constructor 	Description
 ## ArrayList() 	It is used to build an empty array list.
@@ -43,3 +45,5 @@
 ##  By forEach() method.
 ##  By forEachRemaining() method.
 
+# Notes
+## Capacity and size are two different thing size tells the amount present in it and capacity tells the amount it can hold.
