@@ -5,6 +5,8 @@ import java.util.LinkedHashSet;
 
 public class Linked_Hash_Set {
     public static void main(String[] args) {
+
+//        In set duplicate elements are not allowed.
         LinkedHashSet<String> lhs = new LinkedHashSet<>();
         lhs.add("Ravi");
         lhs.add("Vijay");

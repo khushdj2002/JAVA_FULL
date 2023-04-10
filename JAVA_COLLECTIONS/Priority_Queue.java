@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.PriorityQueue;
 
 public class Priority_Queue {
+//     Priority queue doesn't allow null value to store
     public static void main(String[] args) {
         PriorityQueue<String> pq = new PriorityQueue<>();
         pq.add("Amit sharma1");

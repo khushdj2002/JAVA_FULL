@@ -9,9 +9,9 @@ class Array_List{
         list.add("Vijay");  
         list.add("Ravi");  
         list.add("Ajay");  
-        System.out.println(list);;
+        System.out.println(list);
         //Traversing list through Iterator  
-        Iterator itr = list.iterator();
+        Iterator<String> itr = list.iterator();
         // Iterator itr=list.iterator();  
         while(itr.hasNext()){  
         System.out.println(itr.next());  
